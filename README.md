@@ -3,4 +3,4 @@ dummy repo
 branch1 changes!
 branch2 changes!!
 changes during branch1 & branch2 merging
-branch1 changes again
+branch2 changes again
